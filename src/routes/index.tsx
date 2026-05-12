@@ -13,7 +13,7 @@ function LandingPage() {
       {/* NAV */}
       <nav className="fixed top-0 w-full z-50 border-b border-border bg-background/80 backdrop-blur-md">
         <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
-          <a href="#" className="font-mono text-sm tracking-tighter uppercase font-bold">Refine Studio.</a>
+          <a href="#" className="font-mono text-sm tracking-tighter uppercase font-bold">Aura Scale.</a>
           <div className="hidden md:flex gap-8 text-[10px] font-mono uppercase tracking-widest text-muted">
             <a href="#services" className="hover:text-foreground transition-colors">Services</a>
             <a href="#work" className="hover:text-foreground transition-colors">Work</a>
@@ -301,7 +301,7 @@ function LandingPage() {
       <footer className="py-12 px-6 border-t border-border bg-black">
         <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-12 items-start">
           <div className="col-span-1 md:col-span-2">
-            <span className="font-mono text-sm tracking-tighter uppercase font-bold block mb-4">Refine Studio.</span>
+            <span className="font-mono text-sm tracking-tighter uppercase font-bold block mb-4">Aura Scale.</span>
             <p className="text-muted text-sm max-w-xs">Elevating local businesses through high-end web design and engineering.</p>
           </div>
           <div>
@@ -320,7 +320,7 @@ function LandingPage() {
           </div> */}
         </div>
         <div className="max-w-7xl mx-auto mt-20 pt-8 border-t border-white/5 flex justify-between">
-          <span className="font-mono text-[10px] text-muted uppercase tracking-widest">© 2026 Refine Studio.</span>
+          <span className="font-mono text-[10px] text-muted uppercase tracking-widest">© 2026 Aura Scale.</span>
           <span className="font-mono text-[10px] text-muted uppercase tracking-widest">Built for Conversion</span>
         </div>
       </footer>

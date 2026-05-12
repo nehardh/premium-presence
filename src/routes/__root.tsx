@@ -72,10 +72,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Apex / Digital — Premium Web Design for Local Businesses" },
+      { title: "Aura Scale — Premium Web Design for Local Businesses" },
       { name: "description", content: "We build high-converting, premium websites for local businesses in Hyderabad. Lead generation, WhatsApp integration, and Google Business optimization." },
-      { name: "author", content: "Apex Digital" },
-      { property: "og:title", content: "Apex / Digital — Premium Web Design" },
+      { name: "author", content: "Aura Scale" },
+      { property: "og:title", content: "Aura Scale — Premium Web Design" },
       { property: "og:description", content: "Modern, high-converting websites for local businesses." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
