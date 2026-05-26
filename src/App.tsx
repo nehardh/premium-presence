@@ -77,12 +77,12 @@ export default function App() {
       </section>
 
       {/* SOCIAL PROOF */}
-      <section className="py-24 px-6 border-b border-border">
+      {/* <section className="py-24 px-6 border-b border-border">
         <div className="max-w-7xl mx-auto">
           <p className="font-mono text-[10px] text-muted uppercase tracking-[0.25em] mb-16">Trusted by local businesses</p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
-            <Testimonial n="01" quote="The transformation in our lead volume was immediate. Apex understands the local market better than anyone." author="Marcus Chen / Aura Dental" />
-            <Testimonial n="02" quote="Finally, an agency that delivers a premium experience start to finish. Our site is now our best salesperson." author="Sarah Williams / Velvet Salon" />
+            <Testimonial n="01" quote="The transformation in our lead volume was immediate. Apex understands the local market better than anyone." author="Mayur Rathod / Mayur Dental" />
+            <Testimonial n="02" quote="Finally, an agency that delivers a premium experience start to finish. Our site is now our best salesperson." author="Sarath Chandra / Velvet Salon" />
             <div className="border-l border-border pl-6">
               <span className="font-mono text-[10px] text-muted uppercase block mb-4">Metric / 2024</span>
               <p className="text-4xl font-extrabold tracking-tighter uppercase">340% Increase</p>
@@ -90,7 +90,7 @@ export default function App() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* SERVICES */}
       <section id="services" className="py-32 px-6 border-b border-white/[0.06] bg-black">
